@@ -1,0 +1,13 @@
+node_modules/
+public/client.js
+public/client.js.map
+*.log
+*.tmp
+dist/
+.DS_Store
+*.swp
+coverage/
+env/
+*.env
+npm-debug.log*
+package-lock.json
